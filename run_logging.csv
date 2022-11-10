@@ -1,0 +1,2 @@
+model,seed,lr,max_len,enable_dataaug,enable_adversarial,rdrop_coef,best_score,save_mode_name
+ernie-3.0-base-zh,2022,8e-05,365,False,False,0.1,0.4896980225254638,checkpoint/ernie-3.0-base-zh-1668096823
